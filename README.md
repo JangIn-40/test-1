@@ -21,4 +21,4 @@
 
 **저장소 이미지** 삽입하기
 
-![프로필 이미지](./https://github.com/JangIn-40/test-1/blob/main/_67e40c46-0acb-4179-98a0-bdca27620355.jpg)
+![프로필 이미지](./_67e40c46-0acb-4179-98a0-bdca27620355.jpg)
